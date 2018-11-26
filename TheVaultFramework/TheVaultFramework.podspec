@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TheVaultFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "Middleware wrapper for the Vault Rest API"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ The Vault Framework is a collection of classes to enable integration with The Va
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Dragonsoft-Research/TheVaultFramework.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/Dragonsoft-Research/TheVaultFramework.git", :tag => "1.1.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
